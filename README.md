@@ -1,6 +1,13 @@
-### Hi there 👋
+### Zosimo Uy Jr - @pinkdollar123
+
 
 Initial message...
+
+Computer Engineer
+Front-end: HTML5, CSS3, BOOSTRAP5
+Back-end: LARAVEL, PHP, MYSQL
+
+BurritoMan🌯
 <!--
 **pinkdollar123/pinkdollar123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
