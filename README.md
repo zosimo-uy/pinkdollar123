@@ -3,9 +3,11 @@
 
 Initial message...
 
-Computer Engineer
-Front-end: HTML5, CSS3, BOOSTRAP5
-Back-end: LARAVEL, PHP, MYSQL
+Computer Engineer, Aspiring Full-Stack Web Developer
+Front-end: HTML5, CSS3, JAVASCRIPT, BOOTSTRAP5, REACTJS
+Back-end: NODE.JS, LARAVEL, PHP, MYSQL,
+IDE: VSCODE
+LDE: LARAGON
 
 BurritoMan🌯
 <!--
